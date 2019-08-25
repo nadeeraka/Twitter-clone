@@ -1,11 +1,15 @@
 .text-center{
     text-align: center
 }
-.mew-form{
+.mew-form, .loding{
     width: 50%;
     height: 50%;
     margin: 0 auto;
 }
 .m-b{
     margin-top: 10%;
+}
+
+.loding{
+    text-align: center;
 }
